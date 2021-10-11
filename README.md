@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Odela</h1>
 
 ![image](https://user-images.githubusercontent.com/72432569/136811577-fcac099a-4013-4faa-aa35-47e453db5f48.png)
-<h3 align="center">A passionate young self thought Computer vision , AI , ML , IOT developer from India Worked on 300+ projects Learner by passion and freelancer prof</h3>
+<h3 align="center">A passionate young self thought Computer vision , AI , ML , IOT developer from India Worked on 300+ projects Learner by passion and freelancer profession </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepodela&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepodela" /> </p>

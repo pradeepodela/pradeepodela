@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Pradeep Odela</h1>
+<h1 align="center">Hi 👋, I'm Pradeep</h1>
 
 ![image](https://user-images.githubusercontent.com/72432569/136811577-fcac099a-4013-4faa-aa35-47e453db5f48.png)
 <h3 align="center">A passionate young self thought Computer vision , AI , ML , IOT developer from India Worked on 300+ projects Learner by passion and freelancer profession </h3>

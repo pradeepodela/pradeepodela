@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **odelapradeep12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ydn_FQXUq1yBorzIhVGurdUgwjB1eCk0/view?usp=sharing](https://drive.google.com/file/d/1ydn_FQXUq1yBorzIhVGurdUgwjB1eCk0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KCUF2WLfXkwnflp9M4B0tZILDKjfUhJs/view?usp=sharing)
 
 
 ![image](https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif)

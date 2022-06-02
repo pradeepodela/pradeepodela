@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 
 ![image](https://user-images.githubusercontent.com/72432569/136811577-fcac099a-4013-4faa-aa35-47e453db5f48.png)
-<h3 align="center"👉 I'm pradeep odela and I am 17 years old currently pursuing diploma 2year in ECE from Kasireddy Naryana Reddy college of engineering and research 
+<h3 align="center"
+👉 I'm pradeep odela and I am 17 years old currently pursuing diploma 2year in ECE from Kasireddy Naryana Reddy college of engineering and research 
 
 👉 I am Aspiring data scientist worked on various projects in the field of data science 
  

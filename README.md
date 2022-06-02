@@ -3,7 +3,30 @@
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
 
 ![image](https://user-images.githubusercontent.com/72432569/136811577-fcac099a-4013-4faa-aa35-47e453db5f48.png)
-<h3 align="center">A passionate young self thought Computer vision , AI , ML , IOT developer from India Worked on 300+ projects Learner by passion and freelancer profession </h3>
+<h3 align="center"👉 I'm pradeep odela and I am 17 years old currently pursuing diploma 2year in ECE from Kasireddy Naryana Reddy college of engineering and research 
+
+👉 I am Aspiring data scientist worked on various projects in the field of data science 
+ 
+
+👉 I am a freelancer helping emerging #startups Build and Develop their ideas into full fledged products In Data science , IOT , Robotics , Computer vision , Machine Learning 
+
+
+👉 I enjoy building Robots and Automation systems and i have learned Robotics And IOT development.
+
+
+👉 I've worked on 300+ projects in various domains IOT , Robotics , Computer Vision , Machine Learning , Deep learning , Front end Development , Electronics 
+
+
+👉 My Skill set Consist of Data Science , Computer vision , Machine Learning , Deep Learning , Front end Development , IOT , Robotics 
+
+
+👉 I am having hands on experience in TensorFlow , Sklearn , OpenCV , python , HTML , Arduino , Raspberry pi , css , esp8266 , Flask , C 
+
+
+👉 I hold strong interest in #DataScience #MachineLearning #computervision #Entrepreneurship #Startup # AI #Blockchain #Crypto #Technology #Drones #StockMarket 
+
+
+⭐️If you want to talk more about Data Science , computer vision , machine learning , Robotics (Science it's my personal favorite ) Hit me up or just drop a mail on odelapradeep12@gmail.com ★</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepodela&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepodela" /> </p>

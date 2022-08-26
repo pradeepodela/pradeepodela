@@ -34,7 +34,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepodela" alt="pradeepodela" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/odelapradeep" target="blank"><img src="https://img.shields.io/twitter/follow/odelapradeep?logo=twitter&style=for-the-badge" alt="odelapradeep" /></a> </p>
 
 - 📝 check out my website [https://pradeepodela.github.io/mysite/](https://pradeepodela.github.io/mysite/)
 
